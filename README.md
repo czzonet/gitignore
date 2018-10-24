@@ -6,8 +6,10 @@
 Download from uri (use curl for example): 
 
 ```
-curl "https://github.com/czzonet/gitignore/raw/master/README.md"
+curl -O "https://github.com/czzonet/gitignore/raw/master/gitignore"
 ```
+
+Then rename to ".gitignore" which just add a dot to the downloaded filename "gitignore".
 
 ## Rules
 
