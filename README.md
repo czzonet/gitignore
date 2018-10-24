@@ -6,6 +6,7 @@
 Download from uri (use curl for example): 
 
 ```
+curl "https://github.com/czzonet/gitignore/raw/master/README.md"
 ```
 
 ## Rules
