@@ -11,6 +11,10 @@ wget "https://github.com/czzonet/gitignore/raw/master/gitignore"
 
 Then rename to ".gitignore" which just add a dot to the downloaded filename "gitignore".
 
+```bash
+mv gitignore ./.gitignore
+```
+
 ## Rules
 
 ```bash
