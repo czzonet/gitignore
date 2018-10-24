@@ -3,10 +3,10 @@
 
 ## Usage
 
-Download from uri (use curl for example): 
+Download from uri (use wget for example): 
 
 ```
-curl -O "https://github.com/czzonet/gitignore/raw/master/gitignore"
+wget "https://github.com/czzonet/gitignore/raw/master/gitignore"
 ```
 
 Then rename to ".gitignore" which just add a dot to the downloaded filename "gitignore".
